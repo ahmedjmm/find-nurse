@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name" translatable="false">Find nurse</string>
+
+    <!--RegistrationActivity-->
+    <string name="title" translatable="true">Find nurse</string>
+    <string name="email_address">Enter your email address</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="name">Enter your name</string>
+    <string name="age">Enter your age</string>
+    <string name="mobile">ُEnter your mobile number</string>
+    <string name="new_member">New user, register now</string>
+    <string name="register">Register</string>
+    <string name="edit_text_error">This field is required</string>
+    <string name="less_than_14">ID number should be 14 digits</string>
+    <string name="less_than_11">ID number should be 11 digits</string>
+    <string name="alert_dialog_title">Connection error</string>
+    <string name="alert_dialog_message">Please make sure you are connected to internet</string>
+
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="spinner">
+        <item> @string/female  </item>
+        <item> @string/male </item>
+    </string-array>
+
+    <!--WelcomeActivity-->
+    <string name="welcome_activity_title">Hello</string>
+    <string name="welcome_activity_textView">"Hi, please read the following notes carefully:\n\n"
+                "1- This app doesn't provide any paying methods and not responsible for anything related to deals of that kind.\n\n"
+                "2- The function of the app is to make communication between patients and nurses easier.\n\n\n"
+        "3- Who can use this program are only registered with the general Union of Egyptian Nurses.\n\n"
+                 "If you agree with that please press I agree."</string>
+    <string name="welcome_activity_i_agree">I agree</string>
+
+    <!--menu-->
+    <string name="reset_app">Reset app</string>
+    <string name="language">Language</string>
+    <string name="arabic" translatable="false">العربية</string>
+    <string name="english" translatable="false">English</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+
+    <string name="check_connection">Please check your internet connection</string>
+    <string name="enable_location">Please enable location services in your device.</string>
+    <string name="user_created">User created successfully</string>
+    <string name="signed_in">Signed in successfully</string>
+    <string name="sign_in_button">sign in</string>
+    <string name="enter_mobile">Please enter your mobile number:</string>
+    <string name="verify">verify</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="mobile_error">Mobile should be 10 digit</string>
+    <string name="enter_code">Please enter code that sent to you:</string>
+    <string name="empty_field">Field can\'t be empty</string>
+    <string name="code_sent">Code sent</string>
+    <string name="nurses_available">Available nurses</string>
+    <string name="Message">Message</string>
+    <string name="accept">Accept</string>
+    <string name="alert_dialog_message_title">Message request</string>
+    <string name="alert_dialog_message_message">"New message request from "</string>
+    <string name="no_nurses_available">No available nurses now</string>
+    <string name="edit_text_error_chat">Type message to send</string>
+
+</resources>

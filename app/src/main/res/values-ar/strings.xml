@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email_address">ادخل بريدك الالكتروني</string>
+    <string name="enter_password">ادخل كلمة المرور</string>
+    <string name="age">ادخل عمرك</string>
+    <string name="name">ادخل اسمك</string>
+    <string name="language">اللغة</string>
+    <string name="register">تسجيل</string>
+    <string name="reset_app">إعادة الضبط</string>
+    <string name="mobile">ادخل رقم الهاتف</string>
+    <string name="edit_text_error">هذا الحقل مطلوب</string>
+    <string name="welcome_activity_textView">"مرحبا ، يرجى قراءه الملاحظات التالية بعناية: \n\n"
+                "1-هذا التطبيق لا يوفر اي طرق الدفع وغير مسؤوله عن اي شيء يتعلق بصفقات من هذا النوع. \n\n"
+                "2-وظيفة التطبيق هو جعل الاتصال بين المرضي والممرضين أسهل. \n\n"
+        "3-جميع الممرضين الذين يتم التواصل معهم مسجلين لدى النقابة العامة للتمريض المصري. \n\n"
+                  "إذا كنت توافق علي ذلك يرجى الضغط علي موافق".</string>
+    <string name="welcome_activity_i_agree">موافق</string>
+    <string name="welcome_activity_title">مرحباً</string>
+    <string name="less_than_14">الرقم القومي يجب ان يكون مكون من 14 رقم</string>
+    <string name="less_than_11">رقم الهاتف يجب ان يكون مكون من 11 رقم</string>
+    <string name="check_connection">برجاء التحقق من الاتصال بالانترنت</string>
+    <string name="female">أنثى</string>
+    <string name="male">ذكر</string>
+    <string name="alert_dialog_title">خطأ بالاتصال</string>
+    <string name="alert_dialog_message">برجاء التأكد من الاتصال بالانترنت</string>
+    <string name="enable_location">برجاء تفعيل خدمة تحديد المواقع في الجهاز</string>
+    <string name="new_member">عضو جديد, سجل الآن</string>
+    <string name="user_created">تم انشاء الحساب</string>
+    <string name="signed_in">تم تسجيل الدخول بنجاح</string>
+    <string name="sign_in_button">تسجيل الدخول</string>
+    <string name="enter_mobile">برجاء ادخال رقم الهاتف:</string>
+    <string name="verify">تأكيد</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="mobile_error">الهاتف يجب ان يكون مكون من 10 أرقام</string>
+    <string name="enter_code">برجاء ادخال الرمز الذي تم ارساله اليك:</string>
+    <string name="title">أوجد ممرض</string>
+    <string name="empty_field">الحقل لا يمكن ان يكون فارغا</string>
+    <string name="code_sent">تم ارسال الرمز</string>
+    <string name="nurses_available">الممرضون المتاحون</string>
+    <string name="Message">الرسالة</string>
+    <string name="accept">قبول</string>
+    <string name="alert_dialog_message_title">"طلب رسالة "</string>
+    <string name="alert_dialog_message_message">"يوجد رسالة طلب رسالة جديدة من "</string>
+    <string name="no_nurses_available">لا يوجد ممرضون متاحين حاليا</string>
+    <string name="edit_text_error_chat">اكتب رسالة لارسالها</string>
+</resources>
